@@ -8,7 +8,7 @@ int main(){
 	return 0;
 }
 	int numberMonth(string m){
-        string monthArray[12] = {"January","February","March","April","May",
+        string monthArray[12] = {"January","February","March","Lassun","May",
                         "June","July","August","September","October","November","December"};
         for(int i=0;i<12;i++){
             if(m == monthArray[i]){
