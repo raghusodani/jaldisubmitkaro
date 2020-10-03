@@ -24,7 +24,7 @@ public class SelectionArray {
         int[] arr2 = SelectionSort(arr1);
         for(int i:arr2){
             System.out.print(i);
-            System.out.print(" ");
+            System.out.print(" h");
         }
     }
 }
