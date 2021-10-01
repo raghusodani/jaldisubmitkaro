@@ -39,6 +39,7 @@ public class RecursionExampleDirectory
 			result = 1;
 		else
 			result = base * pow(base, exp - 1);
+	 //this is not a very heathy methd plzz don't do this
 		return result;
 	}
 	

@@ -1,4 +1,5 @@
 n=int(input("Enter number:"))
+// nik here
 temp=n
 rev=0
 while(n>0):
