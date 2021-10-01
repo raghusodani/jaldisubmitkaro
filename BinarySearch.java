@@ -29,6 +29,6 @@ public class BinarySearch {
         System.out.println("Element not found!");
     }
     System.out.println("The number to be searched for is found at index : "+(index+1)+".");
-}
+}//wrong
         
 }  
