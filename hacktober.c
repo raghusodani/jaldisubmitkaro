@@ -1,2 +1,0 @@
-Hacktoberfest!!
-let us git!!
